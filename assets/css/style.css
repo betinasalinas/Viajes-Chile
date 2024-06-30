@@ -1,7 +1,7 @@
 .svg{
     width: 30px;
 }
-.nav-black {
+.navbar-black {
     background-color: black;
     color: white;
   }
@@ -9,9 +9,11 @@ main{
     background-color: black;
 }
 
-header{
-    background-color: black;
+.navbar-light {
+    padding: 0%;
 }
+
+
 
 .bg-icon{
     background-color: #0dcaf0;
@@ -35,3 +37,14 @@ header{
     margin-bottom: 20px;
     margin-left: 120px;
 }
+
+.btn {
+    background-color: #0dcaf0;
+}
+
+form {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+
