@@ -21,3 +21,17 @@ header{
 *{
     font-family:'red hat display';
 }
+
+.card{
+    background-color: #0dcaf0;
+    color: white;
+    width: 299px;
+    padding: 0;
+    
+}
+.card-deck {
+    margin-top: 20px;
+    margin-right: 120px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+}
