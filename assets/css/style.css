@@ -5,3 +5,19 @@
     background-color: black;
     color: white;
   }
+main{
+    background-color: black;
+}
+
+header{
+    background-color: black;
+}
+
+.bg-icon{
+    background-color: #0dcaf0;
+    font-size: 27px;
+}
+
+*{
+    font-family:'red hat display';
+}
