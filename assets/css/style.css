@@ -45,6 +45,18 @@ main{
 form {
     margin-left: 8%;
     margin-right: 8%;
+    margin-bottom: 3%;
 }
 
+footer {
+    background-color: #0dcaf0;
+}
 
+.fa-brands {
+    font-size: 25px;
+    margin: 1%;
+}
+
+a {
+    color: white;
+}
