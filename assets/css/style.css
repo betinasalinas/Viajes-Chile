@@ -1,36 +1,38 @@
+/* DEFINIR TAMAÑO LOGO EN NAVBAR */
 .svg{
     width: 30px;
 }
-.navbar-black {
-    background-color: black;
-    color: white;
-  }
+
+/* FONDO NEGRO DEL CONTENIDO */
 main{
     background-color: black;
 }
 
+/* BORRAR ESPACIO QUE QUEDABA ENTRE CARRUSEL Y LA OTRA SECCION */
 .navbar-light {
     padding: 0%;
 }
 
-
-
+/* DEFINIR FONDO Y TAMAÑO DE ICONOS DE SECCION QUIENES SOMOS */
 .bg-icon{
     background-color: #0dcaf0;
     font-size: 27px;
 }
 
+/* TIPO DE LETRA USADA */
 *{
     font-family:'red hat display';
 }
 
+/* CARACTERISTICAS DE CARS DE SECCION DESTACADOS */
 .card{
     background-color: #0dcaf0;
     color: white;
     width: 299px;
     padding: 0;
-    
 }
+
+/* AGREGANDO MARGENES A LA SECCION DE LAS CARDS */
 .card-deck {
     margin-top: 20px;
     margin-right: 120px;
@@ -38,25 +40,30 @@ main{
     margin-left: 120px;
 }
 
+/* COLORES BOTON ENVIAR */
 .btn {
     background-color: #0dcaf0;
+    color: white;
 }
 
+/* AGREGANDO MARGENES AL FORMULARIO */
 form {
     margin-left: 8%;
     margin-right: 8%;
     margin-bottom: 3%;
 }
 
+/* COLOR DE FONDO DEL FOOTER */
 footer {
     background-color: #0dcaf0;
 }
 
+/* MARGENES Y TAMAÑO DE ICONOS DEL FOOTER */
 .fa-brands {
     font-size: 25px;
     margin: 1%;
 }
-
+/* COLOR BLANCO A LOS ENLACES */
 a {
     color: white;
 }

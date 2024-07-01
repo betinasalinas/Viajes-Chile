@@ -1,5 +1,9 @@
-$(document).scroll( function(e){
-    const y = $("html").scrollTop();
-    if(y > 300) $("nav").addClass("nav-black")
-    else $("nav").removeClass("nav-black")
-})
+
+// VENTANA EMERGENTE AL PRESIONAR BOTON ENVIAR
+
+$(document).ready(function(){
+
+$('#enviarCorreo').on('click',function(){
+    alert("El mensaje fue enviado correctamente");
+});
+});
